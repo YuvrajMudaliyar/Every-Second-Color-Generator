@@ -1,1 +1,1 @@
-An Appliction which changes Random backgrond color of the Body section :)😊😜
+An Appliction which changes Random backgrond color of the Body section every second :)😊😜
